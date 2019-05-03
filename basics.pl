@@ -15,6 +15,7 @@
 # @Phones= <>;
 # chomp(@Phones);
 # print "@Phones";
+wertyuiop[]
 
 %parent= ('Angel'=>'Richard', 'harish'=>'selva');
 print "$parent{'harish'}\n";
